@@ -21,3 +21,5 @@ Rita_annotated_conv2 is Rita’s recording with my annotation scheme > conv2.tsv
 Gianmarco_annotated_conv3 is Gianmarco’s recording with my annotation scheme > conv3.tsv is the export from this file
 
 IAA_MYSCHEME.ipynb is Inter-annotator agreement Rita vs Giulia vs ChatGPT + label distribution for each conversation
+
+metadata_conversation_MASSAGGIA contains metadata from my original recording and annotators information
