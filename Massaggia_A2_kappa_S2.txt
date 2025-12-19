@@ -1,0 +1,92 @@
+Output created: 11/26/25 19:11:59
+
+NaN	: a kappa value of "NaN" usually indicates a division by zero
+0	: a kappa value of "0" replaces a value < 0 (negative kappa), as opposed to the value "0.000"
+
+Number of files involved: 1 (current transcription)
+Number of selected tiers: 2
+Number of pairs of tiers in the comparison: 1
+Required minimal overlap percentage: 51%
+
+Global results of all files and all tiers:
+value	kappa	kappa_max	raw agreement
+ACKNOWLEDGEMENT	0.1578	1.0000	0.8103
+ANSWER	0.7958	0.7958	0.9914
+BACKCHANNEL	0.2927	0.9628	0.8362
+CLARIFICATION	0.0000	0.0000	0.9828
+EMOTIVE	0	1.0000	0.9828
+EXPRESSIVE	0	0.4934	0.9655
+OTHER	0.7661	0.7661	0.9397
+QUESTION	0.7862	0.9287	0.9741
+REPAIR	0	0.2750	0.9397
+STATEMENT	0.8075	0.9125	0.9052
+
+Global kappa values and agreement matrix:
+Overall results (incl. unlinked/unmatched annotations):
+kappa_ipf	kappa_max	raw agreement
+0.5512	0.8619	0.6638
+
+Overall results (excl. unlinked/unmatched annotations):
+kappa (excl.)	kappa_max (excl.)	raw agreement (excl.)
+0.5512	0.8619	0.6638
+
+Overall Agreement Matrix:
+First annotator in the rows, second annotator in the columns
+
+	ACKNOWLEDGEMENT	ANSWER	BACKCHANNEL	CLARIFICATION	EMOTIVE	EXPRESSIVE	OTHER	QUESTION	REPAIR	STATEMENT	Unmatched	
+ACKNOWLEDGEMENT	8	0	12	0	0	2	0	0	4	4	0	
+ANSWER	0	4	0	0	0	0	0	0	0	0	0	
+BACKCHANNEL	16	0	12	0	2	0	0	0	0	0	0	
+CLARIFICATION	0	0	0	0	0	0	0	0	0	0	0	
+EMOTIVE	0	0	0	0	0	2	0	0	0	0	0	
+EXPRESSIVE	0	0	0	0	0	0	0	0	0	2	0	
+OTHER	6	0	6	0	0	0	28	0	2	0	0	
+QUESTION	0	0	0	0	0	0	0	12	2	0	0	
+REPAIR	0	0	0	0	0	0	0	2	0	0	0	
+STATEMENT	0	2	2	4	0	2	0	2	4	90	0	
+Unmatched	0	0	0	0	0	0	0	0	0	0	0	
+
+
+Global per value agreement table:
+ACKNOWLEDGEMENT
+8	22
+22	180
+
+ANSWER
+4	2
+0	226
+
+BACKCHANNEL
+12	20
+18	182
+
+CLARIFICATION
+0	4
+0	228
+
+EMOTIVE
+0	2
+2	228
+
+EXPRESSIVE
+0	6
+2	224
+
+OTHER
+28	0
+14	190
+
+QUESTION
+12	4
+2	214
+
+REPAIR
+0	12
+2	218
+
+STATEMENT
+90	6
+16	120
+
+End of global results.
+################################################

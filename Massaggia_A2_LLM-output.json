@@ -1,0 +1,195 @@
+{"INPUT": "we just ↑remi[NISCE]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[remi]nisce", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "[eh]", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "(a)[bout] a shared memory", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "'kay", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "m::h hhh ((tsk))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "which memory would you like", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "but i'm tryin' to think which memory is (0.6) within five minutes because they're all short (.) cute moments", "OUTPUT": "{\"label\": \"CLARIFICATION\"}"}
+{"INPUT": "mh=yea:h", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "°we- we'll probably spend more than five minutes finding a memory°", "OUTPUT": "{\"label\": \"REQUEST\"}"}
+{"INPUT": "okay i (.) would (.) .hhh", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": ".hhh >°I don't know°< could be about the: (.) the camera cap", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "u[:h]", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "[that] (.) ((laugh 0.5)) on our first trip (1.6) >to london a year ago<", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "°that was a good one°", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "↓°yeah°", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": ">how do we do this<", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "do you just launch into the memory?", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "°do we° just launch into the memo[ry]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "[°I (.)] don't know°", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "but do you remember how you lost the: (.) camera cap (0.4) at the airport check in", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "yea::h↑", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "is that not a good memory", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "no i like the memory", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "just tryin' to think of what like (1.4) it means", "OUTPUT": "{\"label\": \"CLARIFICATION\"}"}
+{"INPUT": "[>because<]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "[yeah i] like that memory (.) 'cause that was (0.4) when we were tryin' to figure out", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": ">it was our first trip<", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "and >it was like<", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "can we:: (.) have", "OUTPUT": "{\"label\": \"REQUEST\"}"}
+{"INPUT": "you know can we travel (.) together", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "you know >what does it mean< to travel together", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "we were super excited", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "ehm: >yeah ↑yeah<", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": ">and i remember< we went to the airport", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[neck]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "and i had my camera like strapped on my:: (0.3) [che]st we- which i never do", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": ">but then i would do< and i had like the (.) cap on it >↓i remember that<", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": ">we had a lot of luggage<", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "w(h)e had a lot of luggage", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "for:: (.) how many days?", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "for f[our days]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[for four days]", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "[for f]o(h)ur da(h)[ys we h(h)ad two] giant bags you're ↑right ", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "°yeah°", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "and then we went to::", "OUTPUT": "{\"label\": \"DIRECTIVE\"}"}
+{"INPUT": "YEAH we went up to the counter", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "a::nd (.) i don't even remember what happened", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "i think you:: (.) have (.) you just picked up your camera (.) and then the front cap of the camera fell into the belt", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "but was that the first time though", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "i felt like it fell [fo- five or six times (.) before that]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[i think it fell off (.) outside already (.) maybe a few t]ime[s]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[ye]ah yeah >so it was super dodgy<", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "yeah and it fell between the:: (1.1) cracks ", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "the conveyer b[elt]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[into the machinery of the actual] airport", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[the conv]eyer belt (.) y[es (.) you're right right >and it was like<] (0.5) deep in (?) ((laughs 1.6))", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "((laughs 0.7)) it wa(h)s", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "((laughs))", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "yea:h (.) and all i could think is i had to take this whole trip with the: (.) exposed like lens", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[and i'm clumsy]", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "th(h)[e first trip with] (.) blurry pictures", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "ri[ght]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[the]y end up blurred anyway 'cause i'm terrible at taking photos", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "[and we're clumsy]", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "and we're clumsy [so: (.)] i was >definitely gonna< fuck that up a-", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "but i feel like maybe today w- because we've-", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "the cap is over there  ", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "ye[ah]", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "°that's right°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "[and it] still hasn't been cleaned (0.4) from having been down (.) in the gutter at [the air-]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "[THAT] IS TRUE that is tr[ue]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "[tha-] y- you see the cap >was actually< found", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "yesterday", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "°yeah°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "wha[t's]", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "and (1.1) [it ne]eds to be wa[shed]", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "[°>nee]ds to be be washed<°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "and it just a(h)nd existed there", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "(h)", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "having (.) laid in: (0.5) old (.) airport check in bel[t]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[i] don't think it's ever been cleaned", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[(??)]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[mh]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[so bas- bas-] it went in: the: (0.4) on the luggage thing (.) [that g]oes (0.2) when they take your luggage to check in,", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "and it went (.)[under that belt]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh 1.0)) into] the [gap]", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "[which has] <never been seen> since they probably build that airport", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "s(h)o(h) (.) and it was like (.) and then >i remember< askin' the lady: like (.) can i look for the cap", "OUTPUT": "{\"label\": \"REQUEST\"}"}
+{"INPUT": "y(h)ea(h)h", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "and i thought she'd say no", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": ">i literally thought< she'd be like you're cap's lost and she's like yeah so i'm like (.) okay now i ↑have to go", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "y(h)ea(h)h", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[your whole arm]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[ye-]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "and my whole- went my whole arm (.) like up to [my sh(h)oulder(h)]s like underneath this con(h)vey(h)er [belt]", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "((cough))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[but] he- he didn't get it either", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "i had to then climb over AFTER hi(h)m ((laugh 1.0)) ", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[°ye- right°]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "((cough))", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "and lay flat on the conv[eyer belt] (.) to get my arm all the way in there", "OUTPUT": "{\"label\": \"REQUEST\"}"}
+{"INPUT": ">yeah< (.) and [all he-]", "OUTPUT": "{\"label\": \"DIRECTIVE\"}"}
+{"INPUT": "[>the lady] didn' t try once by the way", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[>sh]e didn't even tr[ied it she didn't even t]ried it<", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": " i cannot believe she didn't even attem[pt<] (0.3) WITH LIKE A PEN (0.5) maybe a magnet", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "°>she didn't try it<°", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": ">all i was thinking at the time was like< one this is the most ridiculous shit ever", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "[ye(h)a(h)h]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "ye(h)[a(h)h]", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "two (.) my ass is just out in the airp[ort >'cause i'm] literally< (0.4) [laying] (.) almost face on the belt,", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "and then i'm thinking three (.) all the security:", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh 0.5)) [(nothing is ??)]", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": ">and all- all you're telling me i have to do< to get (.) behind the scenes at [the airport, it's just not my c]ap", "OUTPUT": "{\"label\": \"REQUEST\"}"}
+{"INPUT": "[a-]", "OUTPUT": "{\"label\": \"CLARIFICATION\"}"}
+{"INPUT": "lik(h)- ((laugh 1.0)) [as- >literal]ly we were like< (.) deep behind the counter ((laugh 2.0))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[but worst of >all also<] this was (.) >the first< (.) minute of our trip", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[that's-]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[and]", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "righ- [that was the first] minu(h)[te]", "OUTPUT": "{\"label\": \"ACKNOWLEDGMENT\"}"}
+{"INPUT": "[°yeah°]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[a]nd all i thought is (.) >thi[s has to] be a good trip<", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[we:ll]", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "we [have to make] it (.) past this trip", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "°yea::h°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": ">but it also felt like< the most dutch thing ever", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "it was like of course you can't go without your ↑lens cap so we'll circumvent all airport security", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh)) [(???)]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[i just wa(h)nt to le(h)t yo(h)u] ge(h)t your ca(h)(h)p", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh)) [ye(h)s:]", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "(actually) we could've [dropped anything on that ↑be]lt", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "they >literally< circumvented a:ll security protocols to help us get that c[a(h)p o(h)ut]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[that- that is (.)] tr[ue]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "and then watched us", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": ">like she didn't even help<", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[she just watched]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "she just [watched us like it wa]s normal", "OUTPUT": "{\"label\": \"REPAIR\"}"}
+{"INPUT": "[she-] ((laugh 2.0))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": ">she prob(h)ably< served someone [else] (1.1) while we were searching f[or it]", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "[ye]a:h", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "but we got the cap,", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "we got the cap", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "°yep°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "a::nd (0.5) then it fell: (0.5) about what (.) ten more times [between-] ((laugh 2.6))", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "[te(h)- te(h)-]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "per day (.) ten more times", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "to the point, where we even went to the: fuji store >to try to buy< a new cap,", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[no]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[no]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "because (0.5) that surely cannot be how a cap is supposed t[o be] if- [fa]lling off every time you touch someone,", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "yes, (.) in which we discovered that (0.5) one, (.) a replacement cap was <fourteen> pounds", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "FOURT- (.) yes for two [pieces of plastic]", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "[which is (.) a gl]ass of wine, (.) worth it", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[tw-]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "NOW it is two glasses of wine (.) back then it was two glasses of wine", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "tw(h)o glasses of wine (.) not worth it,", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "u:hm two, (1.2) he said all the caps are shitty", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "°yeah all shitt[y yes°]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "[°that's] ↑right° so", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "the end of that story is (1.0) don't kno- i don't know", "OUTPUT": "{\"label\": \"CLARIFICATION\"}"}
+{"INPUT": "i don't even know what(h) ((laugh 2.1))", "OUTPUT": "{\"label\": \"EXPRESSIVE\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": ">but i think in london we actually said< we would (0.6) personally modify the cap to create a hook (.) ((laugh)) that (.) glues to the c[amera]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[you're right]", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "but it still ha- hasn't happen", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "[°it] has [not happened no°]", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "it stil[l:] (.) [it's st(h)ill it's still] in (.) stage one >where it has to be wa[shed<]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[it] has to be washed", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "and today: (.) it is the day, [(when that happens)]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[today is] the day", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "°it gets washed°", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "ye[ah]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[ye]s", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "the cap", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "°yes°", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "°so°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
+{"INPUT": "°that's the° tale of our first trip di london", "OUTPUT": "{\"label\": \"ANSWER\"}"}
+{"INPUT": "how we bypassed Schiphol's airport security:,", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "how we:: (0.5) wa- (.) keep dirty:: (.) l[ens caps,]", "OUTPUT": "{\"label\": \"QUESTION\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[and how it could] only go up from [there]", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "[can o]nly go up [from-]", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "[it could on]ly go up", "OUTPUT": "{\"label\": \"STATEMENT\"}"}
+{"INPUT": "or t-", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "or down (.) the conveyer be(h)lt", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"EMOTIVE\"}"}
+{"INPUT": "((laugh))", "OUTPUT": "{\"label\": \"OTHER\"}"}
+{"INPUT": "yep", "OUTPUT": "{\"label\": \"ACKNOWLEDGEMENT\"}"}
+{"INPUT": "°yeah°", "OUTPUT": "{\"label\": \"BACKCHANNEL\"}"}
