@@ -1,0 +1,197 @@
+Speaker1	Speaker2	DialogueAct _ S1	DialogueAct _ S2	DialogueAct_S1_R	DialogueActs_S2_R
+we just ↑remi[NISCE]		STATEMENT		STATEMENT	
+	[remi]nisce		BACKCHANNEL		BACKCHANNEL
+[eh]		OTHER		OTHER	
+	(a)[bout] a shared memory		STATEMENT		STATEMENT
+'kay		BACKCHANNEL		BACKCHANNEL	
+m::h hhh ((tsk))		OTHER		OTHER	
+	which memory would you like		QUESTION		QUESTION
+but i'm tryin' to think which memory is (0.6) within five minutes because they're all short (.) cute moments		STATEMENT		STATEMENT	
+	mh=yea:h		ACKNOWLEDGEMENT		ACKNOWLEDGEMENT
+	°we- we'll probably spend more than five minutes finding a memory°		STATEMENT		STATEMENT
+okay i (.) would (.) .hhh		OTHER		OTHER	
+.hhh >°I don't know°< could be about the: (.) the camera cap		QUESTION		STATEMENT	
+	u[:h]		OTHER		OTHER
+[that] (.) ((laugh 0.5)) on our first trip (1.6) >to london a year ago<		STATEMENT		STATEMENT	
+	°that was a good one°		EXPRESSIVE		STATEMENT
+	↓°yeah°		ACKNOWLEDGEMENT		ACKNOWLEDGEMENT
+	>how do we do this<		QUESTION		QUESTION
+	do you just launch into the memory?		QUESTION		QUESTION
+°do we° just launch into the memo[ry]		ACKNOWLEDGEMENT		BACKCHANNEL	
+	[°I (.)] don't know°		ANSWER		ANSWER
+but do you remember how you lost the: (.) camera cap (0.4) at the airport check in		QUESTION		QUESTION	
+	yea::h↑		EMOTIVE		EXPRESSIVE
+is that not a good memory		QUESTION		QUESTION	
+	no i like the memory		ANSWER		ANSWER
+	just tryin' to think of what like (1.4) it means		STATEMENT		ANSWER
+[>because<]		OTHER		ACKNOWLEDGEMENT	
+	[yeah i] like that memory (.) 'cause that was (0.4) when we were tryin' to figure out		STATEMENT		STATEMENT
+	>it was our first trip<		STATEMENT		CLARIFICATION
+	and >it was like<		STATEMENT		STATEMENT
+	can we:: (.) have		QUESTION		QUESTION
+	you know can we travel (.) together		REPAIR		QUESTION
+	you know >what does it mean< to travel together		QUESTION		QUESTION
+	we were super excited		STATEMENT		STATEMENT
+	ehm: >yeah ↑yeah<		OTHER		BACKCHANNEL
+	>and i remember< we went to the airport		STATEMENT		QUESTION
+	and i had my camera like strapped on my:: (0.3) [che]st we- which i never do		STATEMENT		STATEMENT
+[neck]		ACKNOWLEDGEMENT		CLARIFICATION	
+	>but then i would do< and i had like the (.) cap on it >↓i remember that<		STATEMENT		STATEMENT
+	>we had a lot of luggage<		STATEMENT		STATEMENT
+w(h)e had a lot of luggage		ACKNOWLEDGEMENT		BACKCHANNEL	
+	for:: (.) how many days?		QUESTION		QUESTION
+for f[our days]		ANSWER		ANSWER	
+	[for f]o(h)ur da(h)[ys we h(h)ad two] giant bags you're ↑right 		ACKNOWLEDGEMENT		STATEMENT
+[for four days]		ACKNOWLEDGEMENT		BACKCHANNEL	
+	°yeah°		OTHER		OTHER
+	and then we went to::		STATEMENT		STATEMENT
+	YEAH we went up to the counter		STATEMENT		STATEMENT
+	a::nd (.) i don't even remember what happened		STATEMENT		STATEMENT
+i think you:: (.) have (.) you just picked up your camera (.) and then the front cap of the camera fell into the belt		STATEMENT		STATEMENT	
+	but was that the first time though		QUESTION		REPAIR
+	i felt like it fell [fo- five or six times (.) before that]		STATEMENT		CLARIFICATION
+[i think it fell off (.) outside already (.) maybe a few t]ime[s]		ANSWER		STATEMENT	
+	[ye]ah yeah >so it was super dodgy<		ACKNOWLEDGEMENT		STATEMENT
+	yeah and it fell between the:: (1.1) cracks 		STATEMENT		STATEMENT
+the conveyer b[elt]		CLARIFICATION		CLARIFICATION	
+	[the conv]eyer belt (.) y[es (.) you're right right >and it was like<] (0.5) deep in (?) ((laughs 1.6))		ACKNOWLEDGEMENT		REPAIR
+[into the machinery of the actual] airport		STATEMENT		CLARIFICATION	
+((laughs 0.7)) it wa(h)s		OTHER		ACKNOWLEDGEMENT	
+	yea:h (.) and all i could think is i had to take this whole trip with the: (.) exposed like lens		STATEMENT		STATEMENT
+((laughs))		OTHER		OTHER	
+	[and i'm clumsy]		STATEMENT		STATEMENT
+th(h)[e first trip with] (.) blurry pictures		STATEMENT		STATEMENT	
+	ri[ght]		BACKCHANNEL		BACKCHANNEL
+[the]y end up blurred anyway 'cause i'm terrible at taking photos		STATEMENT		STATEMENT	
+	and we're clumsy [so: (.)] i was >definitely gonna< fuck that up a-		STATEMENT		STATEMENT
+[and we're clumsy]		ACKNOWLEDGEMENT		BACKCHANNEL	
+but i feel like maybe today w- because we've-		STATEMENT		STATEMENT	
+the cap is over there  		STATEMENT		CLARIFICATION	
+	ye[ah]		BACKCHANNEL		BACKCHANNEL
+[and it] still hasn't been cleaned (0.4) from having been down (.) in the gutter at [the air-]		STATEMENT		STATEMENT	
+	°that's right°		ACKNOWLEDGEMENT		ACKNOWLEDGEMENT
+	[THAT] IS TRUE that is tr[ue]		BACKCHANNEL		ACKNOWLEDGEMENT
+[tha-] y- you see the cap >was actually< found		STATEMENT		CLARIFICATION	
+yesterday		CLARIFICATION		CLARIFICATION	
+	°yeah°		BACKCHANNEL		ACKNOWLEDGEMENT
+and (1.1) [it ne]eds to be wa[shed]		STATEMENT		STATEMENT	
+	wha[t's]		OTHER		OTHER
+	[°>nee]ds to be be washed<°		ACKNOWLEDGEMENT		BACKCHANNEL
+and it just a(h)nd existed there		STATEMENT		STATEMENT	
+	(h)		OTHER		OTHER
+having (.) laid in: (0.5) old (.) airport check in bel[t]		STATEMENT		STATEMENT	
+	[i] don't think it's ever been cleaned		STATEMENT		STATEMENT
+	[so bas- bas-] it went in: the: (0.4) on the luggage thing (.) [that g]oes (0.2) when they take your luggage to check in,		STATEMENT		REPAIR
+[(??)]		OTHER		OTHER	
+[mh]		OTHER		BACKCHANNEL	
+	and it went (.)[under that belt]		STATEMENT		REPAIR
+((laugh 1.0)) into] the [gap]		ACKNOWLEDGEMENT		CLARIFICATION	
+	[which has] <never been seen> since they probably build that airport		STATEMENT		STATEMENT
+	s(h)o(h) (.) and it was like (.) and then >i remember< askin' the lady: like (.) can i look for the cap		STATEMENT		STATEMENT
+y(h)ea(h)h		BACKCHANNEL		ACKNOWLEDGEMENT	
+	and i thought she'd say no		STATEMENT		STATEMENT
+	>i literally thought< she'd be like you're cap's lost and she's like yeah so i'm like (.) okay now i ↑have to go		STATEMENT		STATEMENT
+y(h)ea(h)h		BACKCHANNEL		ACKNOWLEDGEMENT	
+	and my whole- went my whole arm (.) like up to [my sh(h)oulder(h)]s like underneath this con(h)vey(h)er [belt]		STATEMENT		STATEMENT
+[your whole arm]		ACKNOWLEDGEMENT		BACKCHANNEL	
+[ye-]		BACKCHANNEL		ACKNOWLEDGEMENT	
+[but] he- he didn't get it either		STATEMENT		CLARIFICATION	
+	((cough))		OTHER		OTHER
+i had to then climb over AFTER hi(h)m ((laugh 1.0)) 		STATEMENT		STATEMENT	
+	((laugh))		OTHER		OTHER
+and lay flat on the conv[eyer belt] (.) to get my arm all the way in there		STATEMENT		STATEMENT	
+	[°ye- right°]		BACKCHANNEL		ACKNOWLEDGEMENT
+	((cough))		OTHER		OTHER
+	>yeah< (.) and [all he-]		ACKNOWLEDGEMENT		ACKNOWLEDGEMENT
+[>the lady] didn' t try once by the way		STATEMENT		CLARIFICATION	
+ i cannot believe she didn't even attem[pt<] (0.3) WITH LIKE A PEN (0.5) maybe a magnet		STATEMENT		EXPRESSIVE	
+	[>sh]e didn't even tr[ied it she didn't even t]ried it<		ACKNOWLEDGEMENT		EXPRESSIVE
+	°>she didn't try it<°		ACKNOWLEDGEMENT		BACKCHANNEL
+	>all i was thinking at the time was like< one this is the most ridiculous shit ever		STATEMENT		STATEMENT
+	two (.) my ass is just out in the airp[ort >'cause i'm] literally< (0.4) [laying] (.) almost face on the belt,		STATEMENT		STATEMENT
+[ye(h)a(h)h]		BACKCHANNEL		ACKNOWLEDGEMENT	
+ye(h)[a(h)h]		BACKCHANNEL		ACKNOWLEDGEMENT	
+	and then i'm thinking three (.) all the security:		STATEMENT		STATEMENT
+	>and all- all you're telling me i have to do< to get (.) behind the scenes at [the airport, it's just not my c]ap		STATEMENT		STATEMENT
+((laugh 0.5)) [(nothing is ??)]		OTHER		ACKNOWLEDGEMENT	
+	lik(h)- ((laugh 1.0)) [as- >literal]ly we were like< (.) deep behind the counter ((laugh 2.0))		STATEMENT		STATEMENT
+[a-]		OTHER		OTHER	
+[but worst of >all also<] this was (.) >the first< (.) minute of our trip		STATEMENT		STATEMENT	
+	righ- [that was the first] minu(h)[te]		ACKNOWLEDGEMENT		BACKCHANNEL
+[that's-]		OTHER		OTHER	
+[and]		OTHER		OTHER	
+[a]nd all i thought is (.) >thi[s has to] be a good trip<		STATEMENT		STATEMENT	
+	[°yeah°]		BACKCHANNEL		ACKNOWLEDGEMENT
+we [have to make] it (.) past this trip		STATEMENT		STATEMENT	
+	[we:ll]		OTHER		ACKNOWLEDGEMENT
+	°yea::h°		BACKCHANNEL		EMOTIVE
+	>but it also felt like< the most dutch thing ever		STATEMENT		STATEMENT
+	it was like of course you can't go without your ↑lens cap so we'll circumvent all airport security		STATEMENT		STATEMENT
+((laugh)) [(???)]		OTHER		OTHER	
+	[i just wa(h)nt to le(h)t yo(h)u] ge(h)t your ca(h)(h)p		STATEMENT		STATEMENT
+	((laugh)) [ye(h)s:]		OTHER		OTHER
+(actually) we could've [dropped anything on that ↑be]lt		STATEMENT		STATEMENT	
+	they >literally< circumvented a:ll security protocols to help us get that c[a(h)p o(h)ut]		STATEMENT		EXPRESSIVE
+((laugh))		OTHER		OTHER	
+[that- that is (.)] tr[ue]		ACKNOWLEDGEMENT		ACKNOWLEDGEMENT	
+	and then watched us		STATEMENT		STATEMENT
+	>like she didn't even help<		STATEMENT		STATEMENT
+	she just [watched us like it wa]s normal		STATEMENT		STATEMENT
+[she just watched]		ACKNOWLEDGEMENT		BACKCHANNEL	
+>she prob(h)ably< served someone [else] (1.1) while we were searching f[or it]		STATEMENT		STATEMENT	
+	[she-] ((laugh 2.0))		OTHER		BACKCHANNEL
+	[ye]a:h		BACKCHANNEL		ACKNOWLEDGEMENT
+	but we got the cap,		STATEMENT		STATEMENT
+we got the cap		ACKNOWLEDGEMENT		BACKCHANNEL	
+	°yep°		BACKCHANNEL		ACKNOWLEDGEMENT
+	a::nd (0.5) then it fell: (0.5) about what (.) ten more times [between-] ((laugh 2.6))		STATEMENT		STATEMENT
+[te(h)- te(h)-]		ACKNOWLEDGEMENT		BACKCHANNEL	
+	((laugh))		OTHER		OTHER
+per day (.) ten more times		ACKNOWLEDGEMENT		CLARIFICATION	
+	to the point, where we even went to the: fuji store >to try to buy< a new cap,		STATEMENT		STATEMENT
+because (0.5) that surely cannot be how a cap is supposed t[o be] if- [fa]lling off every time you touch someone,		STATEMENT		STATEMENT	
+	[no]		OTHER		ACKNOWLEDGEMENT
+	[no]		OTHER		ACKNOWLEDGEMENT
+	yes, (.) in which we discovered that (0.5) one, (.) a replacement cap was <fourteen> pounds		STATEMENT		STATEMENT
+FOURT- (.) yes for two [pieces of plastic]		ACKNOWLEDGEMENT		BACKCHANNEL	
+	[which is (.) a gl]ass of wine, (.) worth it		STATEMENT		STATEMENT
+((laugh))		OTHER		OTHER	
+	((laugh))		OTHER		OTHER
+NOW it is two glasses of wine (.) back then it was two glasses of wine		STATEMENT		REPAIR	
+	[tw-]		OTHER		REPAIR
+	((laugh))		OTHER		OTHER
+	tw(h)o glasses of wine (.) not worth it,		ACKNOWLEDGEMENT		REPAIR
+	u:hm two, (1.2) he said all the caps are shitty		STATEMENT		STATEMENT
+°yeah all shitt[y yes°]		ACKNOWLEDGEMENT		BACKCHANNEL	
+	[°that's] ↑right° so		BACKCHANNEL		ACKNOWLEDGEMENT
+	the end of that story is (1.0) don't kno- i don't know		STATEMENT		STATEMENT
+	i don't even know what(h) ((laugh 2.1))		STATEMENT		STATEMENT
+>but i think in london we actually said< we would (0.6) personally modify the cap to create a hook (.) ((laugh)) that (.) glues to the c[amera]		STATEMENT		STATEMENT	
+	((laugh))		OTHER		OTHER
+	[you're right]		BACKCHANNEL		ACKNOWLEDGEMENT
+but it still ha- hasn't happen		STATEMENT		STATEMENT	
+it stil[l:] (.) [it's st(h)ill it's still] in (.) stage one >where it has to be wa[shed<]		STATEMENT		STATEMENT	
+	[°it] has [not happened no°]		ACKNOWLEDGEMENT		BACKCHANNEL
+	[it] has to be washed		ACKNOWLEDGEMENT		BACKCHANNEL
+	and today: (.) it is the day, [(when that happens)]		STATEMENT		STATEMENT
+[today is] the day		ACKNOWLEDGEMENT		BACKCHANNEL	
+	°it gets washed°		STATEMENT		BACKCHANNEL
+ye[ah]		BACKCHANNEL		BACKCHANNEL	
+	[ye]s		BACKCHANNEL		BACKCHANNEL
+the cap		ACKNOWLEDGEMENT		BACKCHANNEL	
+	°yes°		BACKCHANNEL		BACKCHANNEL
+	°so°		OTHER		BACKCHANNEL
+	°that's the° tale of our first trip di london		STATEMENT		STATEMENT
+	how we bypassed Schiphol's airport security:,		STATEMENT		STATEMENT
+	how we:: (0.5) wa- (.) keep dirty:: (.) l[ens caps,]		STATEMENT		STATEMENT
+[and how it could] only go up from [there]		STATEMENT		STATEMENT	
+	((laugh))		OTHER		OTHER
+	[can o]nly go up [from-]		ACKNOWLEDGEMENT		BACKCHANNEL
+[it could on]ly go up		ACKNOWLEDGEMENT		BACKCHANNEL	
+	or down (.) the conveyer be(h)lt		STATEMENT		STATEMENT
+or t-		OTHER		BACKCHANNEL	
+((laugh))		OTHER		OTHER	
+	((laugh))		OTHER		OTHER
+	yep		BACKCHANNEL		BACKCHANNEL
+°yeah°		BACKCHANNEL		BACKCHANNEL	
+
